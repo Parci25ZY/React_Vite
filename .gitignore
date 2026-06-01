@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Archivos/carpetas específicos que quieres ignorar
+.agent/
+README.md
+eslint.config.js
